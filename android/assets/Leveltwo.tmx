@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="100" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="Fu" tilewidth="64" tileheight="64">
+  <image source="Fu.png" width="576" height="384"/>
+  <tile id="11">
+   <properties>
+    <property name="colision" value=""/>
+   </properties>
+  </tile>
+  <tile id="13">
+   <properties>
+    <property name="muerte" value=""/>
+   </properties>
+  </tile>
+  <tile id="45">
+   <properties>
+    <property name="level" value=""/>
+   </properties>
+  </tile>
+  <tile id="46">
+   <properties>
+    <property name="colision" value=""/>
+   </properties>
+  </tile>
+  <tile id="47">
+   <properties>
+    <property name="colision" value=""/>
+   </properties>
+  </tile>
+  <tile id="48">
+   <properties>
+    <property name="colision" value=""/>
+   </properties>
+  </tile>
+  <tile id="49">
+   <properties>
+    <property name="colision" value=""/>
+   </properties>
+  </tile>
+  <tile id="50">
+   <properties>
+    <property name="colision" value=""/>
+   </properties>
+  </tile>
+  <tile id="51">
+   <properties>
+    <property name="colision" value=""/>
+   </properties>
+  </tile>
+  <tile id="52">
+   <properties>
+    <property name="colision" value=""/>
+   </properties>
+  </tile>
+  <tile id="53">
+   <properties>
+    <property name="colision" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="55" name="Complement" tilewidth="64" tileheight="64">
+  <image source="Complement.png" width="960" height="384"/>
+ </tileset>
+ <layer name="Fondo" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt3VtOGzEUgOHpE2oVshQQrKA7ALEAbu9cFlB1A0WsGZDGwnI9Httj+xx7/odfikKkJOfLeJwExGGapsNnJwN26Djp2Wnz+CkQHnjggQceOsJDVxIeRyc88NAaHrrCQ1fazueulZvP41nBHPH4tnCTnike/1/utdoeueeJM6fQemWHx/pruqVH7+GhqxoekutV743scTcnPeOUc1ptj9L7rpYeS/u11D3DnjyunVq8tpeuK7G3w0NXJTxahgcetbP3LZIeOe9X8MADDzz27PEWebu7Ke49zdfPzf435vZaPLaezwkPzeFBRERENE6npCI8dIWHrvDQFR66wkNXeOgKD13hIZ/v+zPpx7Tn8NCV77tl6cfUS+Z3EfDQUSkPPk/UFR7bZlfTwHebr8v31vUvc+7ltf7OSc9QUymv+1yPpblr88hZC0qvF7keseXMPOUYO028bYl51bptzmuhxfkj1cN+Dr6/HVpbe3tN2iPm/n17TA2zr7E3avG82MfJeLivk9LvY/eQmd29Vers8ZD3IBmPva39a3/TVLsRjw/pmbb0kH68o7f2OSMRERERUe9dfPY+eDlzuXL60SDb40bB3PDAA4+0Hudae7SYf8jDmJh6nn/vHjdOj1OduWy1cH8W+zjxSJ9ZzVp7/CvskbJmxc5Z8ljTeHz49gghjxLri0Svnkp4hPZZf+ZKrVe+59BLIYdWHsYED3+/nDSuVyEP9/GP0HHa9j1oyfM0HnU8ShY6n0vPrjeP35WM8MBjFA9jUmqv25vHpXM5pa0eoZk/RXrEfEas3eMycH1LD2Oy5PE0qMfS/LdW8/jg/BHX2bTt/xzUnr1Gj5r3jUdc543up3ePB6sts7ZrbbBXj6W51yx1T1V6f2WK3U9pOD724GFMShnYvnjIr1clPI6dleNx66T5/CE939E9Rg8PXeV4SPUBKM8bfg==
+  </data>
+ </layer>
+</map>
